@@ -1,0 +1,2 @@
+UAT: partner-portal-web STAGE
+Status: PENDING APPROVAL
