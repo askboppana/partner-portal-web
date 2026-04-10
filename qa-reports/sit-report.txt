@@ -1,0 +1,2 @@
+SIT: partner-portal-web QA
+Passed: 25 Failed: 2
